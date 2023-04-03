@@ -1,92 +1,56 @@
 [
     {
-        "nameFile": "wuauserv.exe",
-        "serviceName": "wuauserv",
-        "serviceDisplay": "Windows Update",
-        "serviceDescription": "Responsible for automatic updates to the Windows operating system and other Microsoft software."
+        "nameFile": "backgroundupdater.exe",
+        "serviceName": "BackgroundUpdater",
+        "serviceDisplay": "Background Updater",
+        "serviceDescription": "Runs in the background to check for and download updates for software and applications installed on the computer."
     },
     {
-        "nameFile": "lsass.exe",
-        "serviceName": "SamSs",
-        "serviceDisplay": "Security Accounts Manager",
-        "serviceDescription": "Manages user account and group information and is responsible for enforcing security policies."
+        "nameFile": "filewatcher.exe",
+        "serviceName": "FileWatcher",
+        "serviceDisplay": "File Watcher",
+        "serviceDescription": "Monitors selected folders and files for changes and performs specified actions when changes occur in the background."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "LanmanWorkstation",
-        "serviceDisplay": "Workstation",
-        "serviceDescription": "Enables access to remote file servers and printers."
+        "nameFile": "connectionmonitor.exe",
+        "serviceName": "ConnectionMonitor",
+        "serviceDisplay": "Connection Monitor",
+        "serviceDescription": "Monitors network connections and internet connectivity in the background and provides notifications if a connection is lost or restored."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "Dnscache",
-        "serviceDisplay": "DNS Client",
-        "serviceDescription": "Resolves and caches Domain Name System (DNS) names."
+        "nameFile": "backuptool.exe",
+        "serviceName": "BackupTool",
+        "serviceDisplay": "Backup Tool",
+        "serviceDescription": "Runs scheduled backups of selected files and folders in the background to ensure data safety and protection against data loss."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "wscsvc",
-        "serviceDisplay": "Security Center",
-        "serviceDescription": "Monitors system security settings and provides notifications for security-related events."
+        "nameFile": "remotetaskexecutor.exe",
+        "serviceName": "RemoteTaskExecutor",
+        "serviceDisplay": "Remote Task Executor",
+        "serviceDescription": "Executes pre-defined tasks and scripts on remote computers in the background for automation and remote management purposes."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "Schedule",
-        "serviceDisplay": "Task Scheduler",
-        "serviceDescription": "Enables scheduling of automatic tasks and scripts."
+        "nameFile": "smartcleaner.exe",
+        "serviceName": "SmartCleaner",
+        "serviceDisplay": "Smart Cleaner",
+        "serviceDescription": "Monitors system performance and removes temporary files and junk data in the background to improve system performance and stability."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "wercplsupport",
-        "serviceDisplay": "Problem Reports and Solutions Control Panel Support",
-        "serviceDescription": "Provides support for the Problem Reports and Solutions control panel."
+        "nameFile": "applicationlogger.exe",
+        "serviceName": "ApplicationLogger",
+        "serviceDisplay": "Application Logger",
+        "serviceDescription": "Logs application usage and activity in the background for audit and analysis purposes."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "ShellHWDetection",
-        "serviceDisplay": "Shell Hardware Detection",
-        "serviceDescription": "Detects and notifies of hardware events and provides automatic management of hotplug devices."
+        "nameFile": "printerhelper.exe",
+        "serviceName": "PrinterHelper",
+        "serviceDisplay": "Printer Helper",
+        "serviceDescription": "Assists in managing printer drivers and printing tasks in the background to ensure smooth and efficient printing operations."
     },
     {
-        "nameFile": "svchost.exe",
-        "serviceName": "SysMain",
-        "serviceDisplay": "Superfetch",
-        "serviceDescription": "Preloads frequently used applications into memory to improve system performance."
-    },
-    {
-        "nameFile": "svchost.exe",
-        "serviceName": "WdiSystemHost",
-        "serviceDisplay": "Diagnostic System Host",
-        "serviceDescription": "Enables troubleshooting and diagnostic services for the operating system and applications."
-    },
-    {
-        "nameFile": "spoolsv.exe",
-        "serviceName": "Spooler",
-        "serviceDisplay": "Print Spooler",
-        "serviceDescription": "Manages printing jobs in the system queue and communicates with printer drivers."
-    },
-    {
-        "nameFile": "svchost.exe",
-        "serviceName": "AudioSrv",
-        "serviceDisplay": "Windows Audio",
-        "serviceDescription": "Manages audio devices for Windows-based programs."
-    },
-    {
-        "nameFile": "svchost.exe",
-        "serviceName": "WSearch",
-        "serviceDisplay": "Windows Search",
-        "serviceDescription": "Provides fast search capabilities for files, email, and other content on the computer."
-    },
-    {
-        "nameFile": "svchost.exe",
-        "serviceName": "iphlpsvc",
-        "serviceDisplay": "IP Helper",
-        "serviceDescription": "Provides tunnel connectivity using IPv6 transition technologies."
-    },
-    {
-        "nameFile": "svchost.exe",
-        "serviceName": "Themes",
-        "serviceDisplay": "Themes",
-        "serviceDescription": "Manages themes and visual styles in Windows."
+        "nameFile": "datamonitor.exe",
+        "serviceName": "DataMonitor",
+        "serviceDisplay": "Data Monitor",
+        "serviceDescription": "Monitors data usage and bandwidth consumption in the background and provides notifications and reports on data usage patterns and trends."
     }
 ]
