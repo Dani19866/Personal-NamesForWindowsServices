@@ -1,0 +1,86 @@
+[
+    {
+        "nameFile": "GoogleChromeService.exe",
+        "serviceName": "GoogleUpdates",
+        "serviceDisplay": "Googles Updates",
+        "serviceDescription": "The software update service for Windows by Google"
+    },
+    {
+        "nameFile": "MicrosoftOfficeUpdater.exe",
+        "serviceName": "MSOfficeUpdateSvc",
+        "serviceDisplay": "Microsoft Office Update Service",
+        "serviceDescription": "This Windows service monitors and downloads the latest updates for Microsoft Office applications installed on your computer."
+    },
+    {
+        "nameFile": "AdobeCreativeCloudUpdater.exe",
+        "serviceName": "AdobeUpdateSvc",
+        "serviceDisplay": "Adobe Creative Cloud Update Service",
+        "serviceDescription": "This Windows service automatically checks for and downloads the latest updates for Adobe Creative Cloud applications installed on your computer."
+    },
+    {
+        "nameFile": "AVGUpdater.exe",
+        "serviceName": "AVGUpdateSvc",
+        "serviceDisplay": "AVG Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest virus definition updates and program updates for AVG antivirus software installed on your computer."
+    },
+    {
+        "nameFile": "AppleSoftwareUpdater.exe",
+        "serviceName": "AppleUpdateSvc",
+        "serviceDisplay": "Apple Software Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest software updates for Apple applications installed on your computer."
+    },
+    {
+        "nameFile": "NvidiaGeForceExperienceUpdater.exe",
+        "serviceName": "NvidiaUpdateSvc",
+        "serviceDisplay": "NVIDIA GeForce Experience Update Service",
+        "serviceDescription": "This Windows service automatically checks for and downloads the latest updates for NVIDIA GeForce Experience software installed on your computer."
+    },
+    {
+        "nameFile": "DropboxUpdater.exe",
+        "serviceName": "DropboxUpdateSvc",
+        "serviceDisplay": "Dropbox Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for Dropbox software installed on your computer."
+    },
+    {
+        "nameFile": "GoogleChromeUpdater.exe",
+        "serviceName": "ChromeUpdateSvc",
+        "serviceDisplay": "Google Chrome Update Service",
+        "serviceDescription": "This Windows service automatically checks for and downloads the latest updates for Google Chrome web browser installed on your computer."
+    },
+    {
+        "nameFile": "MozillaFirefoxUpdater.exe",
+        "serviceName": "FirefoxUpdateSvc",
+        "serviceDisplay": "Mozilla Firefox Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for Mozilla Firefox web browser installed on your computer."
+    },
+    {
+        "nameFile": "ZoomUpdater.exe",
+        "serviceName": "ZoomUpdateSvc",
+        "serviceDisplay": "Zoom Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for Zoom video conferencing software installed on your computer."
+    },
+    {
+        "nameFile": "TeamViewerUpdater.exe",
+        "serviceName": "TeamViewerUpdateSvc",
+        "serviceDisplay": "TeamViewer Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for TeamViewer remote access and support software installed on your computer."
+    },
+    {
+        "nameFile": "WinZipUpdater.exe",
+        "serviceName": "WinZipUpdateSvc",
+        "serviceDisplay": "WinZip Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for WinZip file compression software installed on your computer."
+    },
+    {
+        "nameFile": "iTunesUpdater.exe",
+        "serviceName": "iTunesUpdateSvc",
+        "serviceDisplay": "iTunes Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for iTunes media player and mobile device management software installed on your computer."
+    },
+    {
+        "nameFile": "JavaUpdater.exe",
+        "serviceName": "JavaUpdateSvc",
+        "serviceDisplay": "Java Update Service",
+        "serviceDescription": "This Windows service checks for and downloads the latest updates for Java Runtime Environment software installed on your computer."
+    }
+]
